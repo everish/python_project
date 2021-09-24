@@ -1,5 +1,5 @@
 import csv
-a = 12
+a = 19
 b = 7
 print(a+b)
 print("Global" + "Ericsson")
